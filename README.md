@@ -82,8 +82,6 @@ The project uses three operational datasets:
 ### Executive Overview
 ![Dashboard Preview](https://raw.githubusercontent.com/YashShah1432/supply-chain-control-tower-risk-inventory-logistics-intelligence/main/Dashboard%20Overview.png)
 
-## 📌 Project Overview
-
 ### Inventory Intelligence
 ![Dashboard Preview](https://github.com/YashShah1432/supply-chain-control-tower-risk-inventory-logistics-intelligence/blob/main/Inventory%20Dashboard.png)
 
